@@ -1,0 +1,20 @@
+#banner{
+    .slick-prev{
+        left:20px;
+        z-index: 10;
+        color: white;
+        font-size: 30px;
+        &::before {
+            content:"";
+        }
+    }
+    .slick-next{
+        right:20px;
+        z-index: 10;
+        color: white;
+        font-size: 30px;
+        &::before {
+            content:"";
+        }
+    }
+}

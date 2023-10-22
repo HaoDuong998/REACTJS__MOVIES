@@ -1,0 +1,21 @@
+.listMovies .ant-carousel .slick-dots li.slick-active button{
+    background-color:orange
+}
+
+.listMovies .ant-carousel .slick-dots li button{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgb(255, 254, 254);
+}
+
+.listMovies .ant-carousel .slick-dots li{
+    margin-inline: 5px;
+}
+
+.ant-carousel .slick-dots-bottom li button {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color:black;
+}
